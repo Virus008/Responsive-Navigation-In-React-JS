@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import ReactDom from 'react-dom';
+import React from 'react';
 
 class Home2 extends React.Component {
     render() {
@@ -18,7 +17,7 @@ class Home2 extends React.Component {
                     </ul>
                 </div>
             </div>
-        )
+        );
     }
 }
 
