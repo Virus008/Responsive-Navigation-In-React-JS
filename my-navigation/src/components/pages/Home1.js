@@ -18,7 +18,7 @@ class Home1 extends React.Component {
                     </ul>
                 </div>
             </div>
-        )
+        );
     }
 }
 
