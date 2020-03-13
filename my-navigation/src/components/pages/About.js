@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDom from 'react-dom';
 
 class About extends Component {
     render() {
@@ -10,9 +9,8 @@ class About extends Component {
                     <p>This is About page.</p>
                 </div>                
             </div>
-        )
+        );
     }
 }
-
 
 export default About;
