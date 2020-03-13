@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDom from 'react-dom';
 
 class Contact extends Component {
     render() {
@@ -9,11 +8,9 @@ class Contact extends Component {
                     <h3>Hello,</h3>
                     <p>This is Contact page.</p>
                 </div>    
-            </div>
-            
-        )
+            </div>  
+        );
     }
 }
-
 
 export default Contact;
