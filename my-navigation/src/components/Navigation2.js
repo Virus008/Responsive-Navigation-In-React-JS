@@ -4,7 +4,7 @@ import Home2 from './pages/Home2';
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 
-class Navigation2 extends Component {
+class Navigation2 extends React.Component {
   render() { 
 	return (
       	<div>
@@ -31,8 +31,7 @@ class Navigation2 extends Component {
 				</div>
 			</Router>
 		</div>
-		
-	  )
+	  );
   }
 }
 

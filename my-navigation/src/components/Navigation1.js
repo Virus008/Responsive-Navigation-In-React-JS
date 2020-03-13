@@ -34,7 +34,7 @@ class Navigation1 extends React.Component {
                     </div>
                 </Router>
             </div>
-        )
+        );
     }
 }
 export default Navigation1;
