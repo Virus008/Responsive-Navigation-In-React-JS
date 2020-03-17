@@ -1,11 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Home1 from './pages/Home1';
 import About from './pages/About';
 import Contact from './pages/Contact';
-
-
-//this is  navigation using (browser) router  i.e. page relod
 
 class Navigation1 extends React.Component {
     render() {
