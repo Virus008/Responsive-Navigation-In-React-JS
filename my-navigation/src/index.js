@@ -8,6 +8,3 @@ import Navigation1 from './components/Navigation1';
 ReactDOM.render(<Navigation1 />, document.getElementById('root'));
 
 serviceWorker.unregister();
-
-
-
