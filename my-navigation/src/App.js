@@ -8,12 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-		<p>Hello, welcome to demo of React Rounting with Responsive Navigation using </p>
-        <ol style={{textAlign: 'left'}}>
-          <li>Browser Routing</li>
-          <li>Hash Routing</li>
-          <li>Memory Routing</li>
-        </ol>
+          <h1>Hello World</h1>
       </header>
     </div>
   );

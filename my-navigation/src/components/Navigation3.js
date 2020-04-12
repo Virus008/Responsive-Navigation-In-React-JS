@@ -1,10 +1,9 @@
-import React, { Component } from "react";
-import { Link, MemoryRouter as Router, Route } from "react-router-dom";
+import React from 'react';
+import { Link, MemoryRouter as Router, Route } from 'react-router-dom';
 import Home3 from './pages/Home3';
 import About from './pages/About';
 import Contact from './pages/Contact';
 
-//this is  navigation using memory router
 class Navigation3 extends React.Component {
   render() { 
 	return (
